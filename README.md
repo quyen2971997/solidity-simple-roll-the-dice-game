@@ -1,4 +1,4 @@
-Even Odd Game — The Simple Gambling Smart Contract
+Even Odd Game — The Simple Gambling Smart Contract (Part I)
 =============
 
 ![Solidity logo](https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg)
@@ -55,5 +55,5 @@ This is the deployed smart contract from BSC Testnet. Feel free to send it some 
 
 
 ### Interact with Smart Contract ###
-[See **django-even-odd-game-blockchain**](https://github.com/quyen2971997/django-even-odd-game-blockchain)
+[**Even Odd Game — Interact with Smart Contract (Part II)**](https://github.com/quyen2971997/django-even-odd-game-blockchain)
 
